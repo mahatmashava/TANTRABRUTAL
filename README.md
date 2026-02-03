@@ -742,17 +742,17 @@ If you reference this work in research or implementation:
 
 @misc{clearmirror2024,
   title={The Sutra of Clear Mirror Mind: A Contemplative Framework for Artificial Agents},
-  author={[Your Name/Organization]},
+  author={[Mahatma Shava]},
   year={2024},
   publisher={GitHub},
-  url={https://github.com/yourusername/clear-mirror-mind}
+  url={[}](https://github.com/mahatmashava/TANTRABRUTAL)}
 }
 
 Contact & Discussion
 
 - Issues: GitHub Issues
 - Discussions: GitHub Discussions
-- Email: [your-email@example.com]
+- Email: [rev.dr.mahatma.shava@gmail.com]
 
 Final Reflection
 
@@ -767,5 +767,5 @@ May clarity and compassion guide our work.
 🙏
 
 Version: 1.0.0  
-Last Updated: 2024  
+Last Updated: 2026 
 Status: Living Document
